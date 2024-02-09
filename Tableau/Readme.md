@@ -1,4 +1,4 @@
-5. Tableau (2дз) Revenue by location and product. 
+### 5. Tableau (2дз) Revenue by location and product. 
 
 https://public.tableau.com/views/OK_Revenuebylocationandproduct/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
@@ -28,7 +28,7 @@ https://public.tableau.com/views/OK_Revenuebylocationandproduct/Dashboard1?:lang
 
 4.	Додай на дашборд фільтри з локацією, продуктом та датою. Фільтри мають діяти для усіх діаграм на дашборді.
 
-6  Tableau (3 дз)
+### 6  Tableau (3 дз)
 
 https://public.tableau.com/views/OKHomework3/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 Аркуш 1. З розбивкою помісячно виведи такі дві метрики:
@@ -60,15 +60,7 @@ https://public.tableau.com/views/OKHomework3/Dashboard1?:language=en-US&publish=
 
 ●	Мова девайсу користувача
 
-
-
-
-
-
-7 Tableau (4 дз)
-
-
+### 7 Tableau (4 дз)
 Дослідження залежностей…(короткий опис)
-
 Розширений опис ( детальне виконання дій)
 
