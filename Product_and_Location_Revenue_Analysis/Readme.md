@@ -1,5 +1,6 @@
 
 **"Product and Location Revenue Analysis"**
+
 https://public.tableau.com/views/OK_Revenuebylocationandproduct/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 In this project, I analyze financial metrics such as Total Revenue, Paid Users count, and Average Revenue Per Paid User (ARPPU).
