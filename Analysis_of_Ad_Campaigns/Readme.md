@@ -1,3 +1,5 @@
+https://lookerstudio.google.com/reporting/95d244da-e4d0-4a76-b5eb-7f500b16e148
+
 ***2 Efficiency Analysis of Advertising Campaigns on Facebook and Google Ads Platforms***
 
 
