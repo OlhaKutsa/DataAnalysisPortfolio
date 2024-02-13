@@ -1,3 +1,5 @@
+https://public.tableau.com/views/OK_RevenuebylocationandproductCohortAnalysis/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
+
 Project  **"Revenue Analysis for New Users and Cohort Analysis"**
 
 The project focuses on analyzing revenue from new users and conducting cohort analysis. It includes sheets displaying monthly revenue from new users, total revenue dynamics, and cohort-based revenue analysis. These insights are consolidated into a dashboard with filters for location and date, facilitating comprehensive data exploration and analysis.
