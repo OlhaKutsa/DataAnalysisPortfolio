@@ -23,4 +23,4 @@ Main Steps:
    c. Table with Columns and Heat Maps: In this table, campaign names are used as dimensions, and metrics such as total Ad Spend, CPC, CPM, CTR, and ROMI are used as measures.
    Filters were also added to the report by campaign name and ad date to provide the ability for detailed analysis and data filtering.
 
-**Code SQL is here**
+**Code SQL is in** ***"Script-5 (Looker).sql"***
