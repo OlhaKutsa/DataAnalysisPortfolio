@@ -1,6 +1,6 @@
 https://lookerstudio.google.com/reporting/95d244da-e4d0-4a76-b5eb-7f500b16e148
 
-*** Efficiency Analysis of Advertising Campaigns on Facebook and Google Ads Platforms***
+***Efficiency Analysis of Advertising Campaigns on Facebook and Google Ads Platforms***
 
 
 The main task was to compute various performance metrics of campaigns using SQL queries by merging data from both sources and utilizing different metrics such as spend, impressions, and clicks, among others. Data for further analysis was loaded into Google Looker for visualization.
